@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 ## Welcome
+This project is based on React-app which use the Third part Weather API (OPEN WEATHER) to get the API call from the location that we gave permission.
+Thus gives us the Location of of Latitude and Longitude center and not just that it gave us the expected condition of the Location and sunrise as well as sunset timing
+
 
 ## Available Scripts
 
